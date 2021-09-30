@@ -1,0 +1,2 @@
+Dropbox este un serviciu de cloud care ofera spatiu de stocare al datelor, servicii de sincronizare a datelor si software de tip client.
+Dropbox permite utilizatorului sa-si creeze un dosar special pe fiecare dintre calculatoarele sale, pe care Dropbox le sincronizeaza, astfel incat se creeaza impresia ca acelasi dosar (cu aceleasi fisiere) apare pe fiecare dintre calculatoarele utilizatorului.
